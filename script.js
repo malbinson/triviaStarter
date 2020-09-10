@@ -1,3 +1,8 @@
+//todo: 
+// - shuffle answers choices 
+// - give feedback on answers to user
+// - make prettier
+
 var QUESTION_SET = {}; 
 
 $(document).ready(() => {
